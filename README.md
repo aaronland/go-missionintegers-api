@@ -1,4 +1,4 @@
-# go-brooklynintegers-api
+# go-missionintegers-api
 
 Go package for the Mission Integers API.
 
